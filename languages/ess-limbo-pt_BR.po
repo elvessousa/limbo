@@ -1,0 +1,2169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ESS-Promo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-15 12:53-0300\n"
+"PO-Revision-Date: 2015-05-15 12:53-0300\n"
+"Last-Translator: Elves Sousa <elves.sousa@gmail.com>\n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.5\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/limbo-options-fields.php:28
+msgid "Admin"
+msgstr "Admin"
+
+#: admin/limbo-options-fields.php:30
+msgid "Sidebars"
+msgstr "Barras laterais"
+
+#: admin/limbo-options-fields.php:36
+msgid "Frontend"
+msgstr "Frontend"
+
+#: admin/limbo-options-fields.php:38
+msgid "Item class"
+msgstr "Class do item"
+
+#: admin/limbo-options-fields.php:41
+msgid "Image sizes"
+msgstr "Tamanhos de imagem"
+
+#: admin/limbo-options-fields.php:43
+msgid "Full"
+msgstr "Íntegra"
+
+#: admin/limbo-options-fields.php:45
+msgid "Medium"
+msgstr "Médio"
+
+#: admin/limbo-options-fields.php:47
+msgid "Small"
+msgstr "Pequena"
+
+#: admin/limbo-options-fields.php:51
+msgid "Features height"
+msgstr "Altura do destaque"
+
+#: admin/limbo-options-fields.php:56
+msgid "List title"
+msgstr "Titulo da lista"
+
+#: admin/limbo-options-fields.php:68
+msgid "Save options"
+msgstr "Salvar opções"
+
+#: admin/limbo-options.php:47
+msgid "Layout options saved!"
+msgstr "Configurações de layout salvas!"
+
+#: le-limbo.php:128 le-limbo.php:129
+msgid "Layout options"
+msgstr "Opções de layout"
+
+#: limbo-type.php:19 limbo-type.php:21
+msgid "Archives"
+msgstr "Arquivos"
+
+#: limbo-type.php:20
+msgid "Archive"
+msgstr "Arquivo"
+
+#: limbo-type.php:22
+msgid "Add archive"
+msgstr "Adicionar arquivo"
+
+#: limbo-type.php:23
+msgid "Add new archive"
+msgstr "Adicionar novo arquivo"
+
+#: limbo-type.php:24
+msgid "Edit"
+msgstr "Editar"
+
+#: limbo-type.php:25
+msgid "Edit archive"
+msgstr "Editar arquivo"
+
+#: limbo-type.php:26
+msgid "New limbo"
+msgstr "Novo arquivo"
+
+#: limbo-type.php:27 limbo-type.php:28
+msgid "View archives"
+msgstr "Ver arquivo"
+
+#: limbo-type.php:29
+msgid "Search archive"
+msgstr "Procurar arquivos"
+
+#: limbo-type.php:30
+msgid "No archives found"
+msgstr "Nenhum arquivo encontrada"
+
+#: limbo-type.php:31
+msgid "No archives found in trash"
+msgstr "Nenhum arquivo encontrado na lixeira"
+
+#: limbo-type.php:32
+msgid "Parent archives"
+msgstr "Arquivos-pai"
+
+#: limbo-type.php:37
+msgid "limbo"
+msgstr "limbo"
+
+#: limbo-type.php:116
+msgid "Archive this"
+msgstr "Arquivar isto"
+
+#: limbo-type.php:134
+msgid "Title"
+msgstr "Título"
+
+#: limbo-type.php:136
+msgid "Archived by"
+msgstr "Arquivado por"
+
+#: limbo-type.php:137
+msgid "Archived date"
+msgstr "Data de arquivamento"
+
+#: templates/single-limbo.php:21
+msgid "Date"
+msgstr "Data"
+
+#: templates/single-limbo.php:41
+msgid "Content"
+msgstr "Conteúdo"
+
+#: templates/single-limbo.php:48
+msgid "Excerpt"
+msgstr "Resumo"
+
+#: templates/single-limbo.php:54
+msgid "Custom fields"
+msgstr "Campos personalizados"
+
+#: templates/single-limbo.php:68
+msgid "Sorry"
+msgstr "Desculpe"
+
+#: templates/single-limbo.php:69
+msgid "Access not allowed"
+msgstr "Acesso negado"
+
+#~ msgid "Shortcode"
+#~ msgstr "Shortcode"
+
+#~ msgid "Author"
+#~ msgstr "Autor"
+
+#~ msgid "Show IDs"
+#~ msgstr "Mostrar IDs"
+
+#~ msgid "Post types"
+#~ msgstr "Tipos de conteúdo"
+
+#~ msgid "Layouts"
+#~ msgstr "Layouts"
+
+#~ msgid "Layout"
+#~ msgstr "Layout"
+
+#~ msgid "Add layout"
+#~ msgstr "Adicionar layout"
+
+#~ msgid "Add new layout"
+#~ msgstr "Adicionar novo layout"
+
+#~ msgid "Edit layout"
+#~ msgstr "Editar layout"
+
+#~ msgid "New layout"
+#~ msgstr "Novo layout"
+
+#~ msgid "View layouts"
+#~ msgstr "Ver layout"
+
+#~ msgid "Search layouts"
+#~ msgstr "Procurar layouts"
+
+#~ msgid "No layouts Found"
+#~ msgstr "Nenhum layout encontrado"
+
+#~ msgid "No layouts Found in Trash"
+#~ msgstr "Nenhum layout encontrado na lixeira"
+
+#~ msgid "Parent layouts"
+#~ msgstr "Layouts-pai"
+
+#~ msgid "layout"
+#~ msgstr "layout"
+
+#~ msgid "Duplicate layout"
+#~ msgstr "Duplicar layout"
+
+#~ msgid "Layout Sidebar"
+#~ msgstr "Layout Sidebar"
+
+#~ msgid "Area for widgets displayed in the layouts."
+#~ msgstr "Área para os widgets mostrada nos layouts"
+
+#~ msgid "Compact"
+#~ msgstr "Compacto"
+
+#~ msgid "Delete"
+#~ msgstr "Apagar"
+
+#~ msgid "Description"
+#~ msgstr "Descrição"
+
+#~ msgid "Image"
+#~ msgstr "Imagem"
+
+#~ msgid "Select this image"
+#~ msgstr "Selecionar esta imagem"
+
+#~ msgid "Select image for this feature"
+#~ msgstr "Selecionar imagem para este destaque"
+
+#~ msgid "Insert"
+#~ msgstr "Inserir"
+
+#~ msgid "Kicker"
+#~ msgstr "Chapéu"
+
+#~ msgid "Mosaic"
+#~ msgstr "Mosaico"
+
+#~ msgid "Normal"
+#~ msgstr "Normal"
+
+#~ msgid "No features added yet."
+#~ msgstr "Nenhum destaque adicionado ainda."
+
+#~ msgid "No posts added yet."
+#~ msgstr "Nenhum post adicionado ainda."
+
+#~ msgid "Related items"
+#~ msgstr "Itens relacionados"
+
+#~ msgid "Row"
+#~ msgstr "Linha"
+
+#~ msgid "Insert Row"
+#~ msgstr "Inserir linha"
+
+#~ msgid "Slider"
+#~ msgstr "Rotativo"
+
+#~ msgid "Row Title"
+#~ msgstr "Título da linha"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Newest"
+#~ msgstr "Últimas"
+
+#~ msgid "Search"
+#~ msgstr "Pesquisar"
+
+#~ msgid "Name"
+#~ msgstr "Nome"
+
+#~ msgid "Tag"
+#~ msgstr "Tag"
+
+#~ msgid "Previous"
+#~ msgstr "Anterior"
+
+#~ msgid "Next"
+#~ msgstr "Próximo"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Menu pages"
+#~ msgstr "Páginas de menu"
+
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Menu page"
+#~ msgstr "Página de menu"
+
+#~ msgid "Menu Pages"
+#~ msgstr "Páginas de menu"
+
+#~ msgid "Parent Item:"
+#~ msgstr "Item pai:"
+
+#~ msgid "All Items"
+#~ msgstr "Todos os itens"
+
+#~ msgid "View Item"
+#~ msgstr "Ver ítem"
+
+#~ msgid "Add New Item"
+#~ msgstr "Adicionar novo item"
+
+#~ msgid "Add New"
+#~ msgstr "Adicionar novo"
+
+#~ msgid "Edit Item"
+#~ msgstr "Editar item"
+
+#~ msgid "Update Item"
+#~ msgstr "Atualizar item"
+
+#~ msgid "Search Item"
+#~ msgstr "Pesquisar itens"
+
+#~ msgid "Not found"
+#~ msgstr "Não encontrado"
+
+#~ msgid "Not found in Trash"
+#~ msgstr "Não encontrado na lixeira"
+
+#~ msgid "menu_page"
+#~ msgstr "menu_pag"
+
+#~ msgid "Pages for the overlay menu"
+#~ msgstr "Páginas para o overlay do menu"
+
+#~ msgid "Menu groups"
+#~ msgstr "Grupos de menu"
+
+#~ msgid "Menu group"
+#~ msgstr "Grupo de menu"
+
+#~ msgid "Save changes"
+#~ msgstr "Salvar alterações"
+
+#~ msgid "Upload"
+#~ msgstr "Anexar"
+
+#~ msgid "Write something please"
+#~ msgstr "Escreva algo, por favor"
+
+#~ msgid "Settings reset"
+#~ msgstr "Configurações reiniciadas."
+
+#~ msgid "Options"
+#~ msgstr "Opções"
+
+#~ msgid "General"
+#~ msgstr "Geral"
+
+#~ msgid "Menu appearance"
+#~ msgstr "Aparência do menu"
+
+#~ msgid "Background image"
+#~ msgstr "Imagem de fundo"
+
+#~ msgid "Loading image"
+#~ msgstr "Imagem de carregamento"
+
+#~ msgid "Blurry background"
+#~ msgstr "Fundo desfocado"
+
+#~ msgid "Posts per page"
+#~ msgstr "Posts por página"
+
+#~ msgid "Labels"
+#~ msgstr "Etiquetas"
+
+#~ msgid "Previous page"
+#~ msgstr "Página anterior"
+
+#~ msgid "Next page"
+#~ msgstr "Próxima página"
+
+#~ msgid "Le Menu"
+#~ msgstr "Le Menu"
+
+#~ msgid "Site"
+#~ msgstr "Site"
+
+#~ msgid "Lead text"
+#~ msgstr "Texto"
+
+#~ msgid "Left quote"
+#~ msgstr "Citação à esquerda"
+
+#~ msgid "Right quote"
+#~ msgstr "Citação à direita"
+
+#, fuzzy
+#~ msgid "Pull left"
+#~ msgstr "À esquerda"
+
+#, fuzzy
+#~ msgid "Pull right"
+#~ msgstr "À direita"
+
+#~ msgid "Big text"
+#~ msgstr "Texto grande"
+
+#~ msgid "Customize special"
+#~ msgstr "Personalizar especial"
+
+#~ msgid "Custom CSS"
+#~ msgstr "CSS personalizado"
+
+#~ msgid "Metabox configuration is required to have an ID parameter"
+#~ msgstr "A configuração das metaboxes precisa ter um ID de parâmetro."
+
+#~ msgid "Please Try Again"
+#~ msgstr "Por favor, tente novamente"
+
+#~ msgid "Remove Embed"
+#~ msgstr "Remover incorporação"
+
+#~ msgid "No oEmbed Results Found for %s. View more info at"
+#~ msgstr ""
+#~ "Nenhum resultado encontrado para o oEmbed de %s. Veja mais informações em"
+
+#~ msgid "Add Group"
+#~ msgstr "Adicionar grupo"
+
+#~ msgid "Remove Group"
+#~ msgstr "Remover grupo"
+
+#~ msgid "None"
+#~ msgstr "Nenhum"
+
+#~ msgid "All"
+#~ msgstr "Todos"
+
+#~ msgid "Remove"
+#~ msgstr "Remover"
+
+#~ msgid "No terms"
+#~ msgstr "Nenhum termo"
+
+#~ msgid "Add or Upload File"
+#~ msgstr "Adicionar ou subir arquivo"
+
+#~ msgid "Remove Image"
+#~ msgstr "Remover imagem"
+
+#~ msgid "File:"
+#~ msgstr "Arquivo:"
+
+#~ msgid "Download"
+#~ msgstr "Download"
+
+#~ msgid "Clear"
+#~ msgstr "Limpar"
+
+#~ msgid "Default"
+#~ msgstr "Padrão"
+
+#~ msgid "Select Color"
+#~ msgstr "Selecione a cor"
+
+#~ msgid "Current Color"
+#~ msgstr "Cor atual"
+
+#~ msgid "mm/dd/yy"
+#~ msgstr "mm/dd/aa"
+
+#~ msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+#~ msgstr "Domingo, Segunda, Terça, Quarta, Quinta, Sexta, Sábado"
+
+#~ msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+#~ msgstr "Do, Se, Te, Qua, Qui, Sx, Sa"
+
+#~ msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+#~ msgstr "Dom, Seg, Ter, Qua, Qui, Sex, Sáb"
+
+#~ msgid ""
+#~ "January, February, March, April, May, June, July, August, September, "
+#~ "October, November, December"
+#~ msgstr ""
+#~ "Janeiro, Fevereiro, Março, Abril, Maio, Junho, Julho, Agosto, Setembro, "
+#~ "Outubro, Novembro, Dezembro"
+
+#~ msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+#~ msgstr "Jan, Fev, Mar, Abr, Mai, Jun, Jul, Ago, Set, Out, Nov, Dez"
+
+#~ msgid "Today"
+#~ msgstr "Hoje"
+
+#~ msgid "Done"
+#~ msgstr "Feito"
+
+#~ msgid "Use this file"
+#~ msgstr "Usar este arquivo"
+
+#~ msgid "Select / Deselect All"
+#~ msgstr "Selecionar / Desmarcar todos"
+
+#~ msgid "Save"
+#~ msgstr "Salvar"
+
+#~ msgid "An error has occurred. Please reload the page and try again."
+#~ msgstr "Ocorreu um erro. Por favor recarregue a página e tente novamente."
+
+#~ msgid "Articles"
+#~ msgstr "Artigos"
+
+#~ msgid "Lists"
+#~ msgstr "Listas"
+
+#~ msgid "Article features"
+#~ msgstr "Recursos dos artigos"
+
+#~ msgid "Special bar"
+#~ msgstr "Barra de especiais"
+
+#~ msgid "Place"
+#~ msgstr "Local"
+
+#~ msgid "More specials text"
+#~ msgstr "Texto \"Mais Especiais\""
+
+#~ msgid "More specials teaser"
+#~ msgstr "Chamada \"Mais Especiais\""
+
+#~ msgid "Copyright"
+#~ msgstr "Copyright"
+
+#~ msgid "Footer"
+#~ msgstr "Rodapé"
+
+#~ msgid "Special lists"
+#~ msgstr "Lista de especias"
+
+#~ msgid "Top bar"
+#~ msgstr "Barra do topo"
+
+#~ msgid "Select a layout"
+#~ msgstr "Selecione um layout"
+
+#~ msgid "Post"
+#~ msgstr "Post"
+
+#~ msgid "Block"
+#~ msgstr "Bloco"
+
+#~ msgid "Number of items"
+#~ msgstr "Número de itens"
+
+#~ msgid "Columns"
+#~ msgstr "Colunas"
+
+#~ msgid "Lo Speciale"
+#~ msgstr "Lo Speciale"
+
+#~ msgid "More specials"
+#~ msgstr "Mais especiais"
+
+#~ msgid "See more interesting articles we made"
+#~ msgstr "Veja mais artigos interessantes que fizemos"
+
+#~ msgid "Published in"
+#~ msgstr "Publicado em"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Specials"
+#~ msgstr "Especiais"
+
+#, fuzzy
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Special"
+#~ msgstr "Especial"
+
+#~ msgid "Specials"
+#~ msgstr "Especiais"
+
+#~ msgid "All specials"
+#~ msgstr "Todos os especiais"
+
+#~ msgid "View special"
+#~ msgstr "Ver especial"
+
+#~ msgid "Add new special"
+#~ msgstr "Adicionar novo especial"
+
+#~ msgid "Edit special"
+#~ msgstr "Editar especial"
+
+#~ msgid "Update special"
+#~ msgstr "Atualizar especial"
+
+#~ msgid "Search specials"
+#~ msgstr "Pesquisar especiais"
+
+#~ msgid "Special"
+#~ msgstr "Especial"
+
+#~ msgid "Special articles for the site"
+#~ msgstr "Artigos especiais para o site"
+
+#~ msgid "%d minute read"
+#~ msgid_plural "%d minutes read"
+#~ msgstr[0] "Leitura: %d minuto"
+#~ msgstr[1] "Leitura: %d minutos"
+
+#~ msgid "%d second read"
+#~ msgid_plural "%d seconds read"
+#~ msgstr[0] "Leitura: %d minutos"
+#~ msgstr[1] "Leitura: %d minutos"
+
+#~ msgid "chapters"
+#~ msgstr "capítulos"
+
+#~ msgid "Chapters"
+#~ msgstr "Capítulos"
+
+#, fuzzy
+#~ msgid "Test Metabox"
+#~ msgstr "Mensagem de chamada"
+
+#, fuzzy
+#~ msgid "Test Text"
+#~ msgstr "Mensagem de chamada"
+
+#, fuzzy
+#~ msgid "field description (optional)"
+#~ msgstr "Descrição do site"
+
+#, fuzzy
+#~ msgid "Test Text Medium"
+#~ msgstr "Mensagem de chamada"
+
+#, fuzzy
+#~ msgid "Website URL"
+#~ msgstr "URL do site"
+
+#, fuzzy
+#~ msgid "Test Time"
+#~ msgstr "Mensagem de chamada"
+
+#, fuzzy
+#~ msgid "Time zone"
+#~ msgstr "Linha do tempo"
+
+#, fuzzy
+#~ msgid "Test Money"
+#~ msgstr "Mensagem de chamada"
+
+#, fuzzy
+#~ msgid "Test Text Area"
+#~ msgstr "Mensagem de chamada"
+
+#, fuzzy
+#~ msgid "Test Title Weeeee"
+#~ msgstr "Mensagem de chamada"
+
+#, fuzzy
+#~ msgid "This is a title description"
+#~ msgstr "Descrição do site"
+
+#, fuzzy
+#~ msgid "Test Select"
+#~ msgstr "Mensagem de chamada"
+
+#, fuzzy
+#~ msgid "Option One"
+#~ msgstr "Opções"
+
+#, fuzzy
+#~ msgid "Option Two"
+#~ msgstr "Opções"
+
+#, fuzzy
+#~ msgid "Option Three"
+#~ msgstr "Opções"
+
+#, fuzzy
+#~ msgid "Test Radio inline"
+#~ msgstr "Mensagem de chamada"
+
+#, fuzzy
+#~ msgid "Test Radio"
+#~ msgstr "Mensagem de chamada"
+
+#, fuzzy
+#~ msgid "Test Taxonomy Radio"
+#~ msgstr "Mensagem de chamada"
+
+#, fuzzy
+#~ msgid "oEmbed"
+#~ msgstr "Etiqueta [remover]"
+
+#, fuzzy
+#~ msgid "Add Another Entry"
+#~ msgstr "Adicionar nova história"
+
+#, fuzzy
+#~ msgid "Remove Entry"
+#~ msgstr "Etiqueta [remover]"
+
+#, fuzzy
+#~ msgid "Extra Info"
+#~ msgstr "Informações de Contato"
+
+#~ msgid "Avatar"
+#~ msgstr "Avatar"
+
+#~ msgid "Facebook URL"
+#~ msgstr "URL do Facebook"
+
+#~ msgid "Twitter URL"
+#~ msgstr "URL do Twitter"
+
+#~ msgid "Google+ URL"
+#~ msgstr "URL do Google+ URL"
+
+#, fuzzy
+#~ msgid "Linkedin URL"
+#~ msgstr "URL do site"
+
+#, fuzzy
+#~ msgid "Site Background Color"
+#~ msgstr "Cor de fundo"
+
+#~ msgid "On TV"
+#~ msgstr "Na TV"
+
+#~ msgid "This content was aired on "
+#~ msgstr "Este conteúdo foi ao ar em "
+
+#~ msgid "Thanks, your content was sent successfully."
+#~ msgstr "Obrigado, seu conteúdo foi enviado com sucesso."
+
+#~ msgid "Warning!"
+#~ msgstr "Aviso!"
+
+#~ msgid "Sorry, an error occured."
+#~ msgstr "Desculpe, algo está errado."
+
+#~ msgid "is empty!"
+#~ msgstr "está vazio!"
+
+#~ msgid "Featured image"
+#~ msgstr "Imagem destacada"
+
+#~ msgid "Send"
+#~ msgstr "Enviar"
+
+#~ msgid "Edit video information"
+#~ msgstr "Editar informações do vídeo"
+
+#~ msgid "HD Thumbnail"
+#~ msgstr "Miniatura em HD"
+
+#~ msgid "Low RES - Thumbnail"
+#~ msgstr "Baixa resolução"
+
+#~ msgid "Batch import"
+#~ msgstr "Importar em lote"
+
+#~ msgid "Video provider"
+#~ msgstr "Provedor de vídeo"
+
+#~ msgid "Categories"
+#~ msgstr "Categorias"
+
+#~ msgid "Write the categories you want to insert videos, separated by comma"
+#~ msgstr ""
+#~ "Escreva as categorias que você deseja inserir vídeos, separadas por "
+#~ "vírgula"
+
+#~ msgid "Write the tags, separated by comma"
+#~ msgstr "Escreva as tags, separadas por vírgula"
+
+#~ msgid "Playlists"
+#~ msgstr "Playlists"
+
+#~ msgid "Write the playlists you want to insert videos, separated by comma"
+#~ msgstr ""
+#~ "Escreva as playlists que você deseja inserir vídeos, separadas por vírgula"
+
+#~ msgid "Program"
+#~ msgstr "Programa"
+
+#~ msgid "Select a program"
+#~ msgstr "Selecione uma programa"
+
+#~ msgid "Video list"
+#~ msgstr "Lista de vídeos"
+
+#~ msgid "Enter list of videos, separated by line"
+#~ msgstr "Insira a lista de vídeos, separados um por linha"
+
+#~ msgid "Just use URLs, nothing more"
+#~ msgstr "Use somente URLs, nada além disso."
+
+#~ msgid "Please enter your name."
+#~ msgstr "Por favor, insira o seu nome."
+
+#~ msgid "Please enter your email address."
+#~ msgstr "Por favor, insira o seu endereço de email."
+
+#~ msgid "You entered an invalid email address."
+#~ msgstr "Você inseriu um e-mail inválido."
+
+#~ msgid "Please enter a message."
+#~ msgstr "Insira uma mensagem"
+
+#~ msgid "Ingredients"
+#~ msgstr "Ingredientes"
+
+#~ msgid "Method"
+#~ msgstr "Modo de preparo"
+
+#~ msgid "Thanks, your email was sent successfully."
+#~ msgstr "Obrigado, seu email foi enviado com sucesso."
+
+#~ msgid "E-mail"
+#~ msgstr "E-mail"
+
+#~ msgid "Message"
+#~ msgstr "Mensagem"
+
+#~ msgid "Share"
+#~ msgstr "Compartilhar"
+
+#~ msgid "Close"
+#~ msgstr "Fechar"
+
+#~ msgid "The video thumbnail will be applied to the post upon save."
+#~ msgstr "A miniatura do vídeo será aplicada ao salvar o post."
+
+#~ msgid "View catalog"
+#~ msgstr "Ver catálogo"
+
+#~ msgid "View project"
+#~ msgstr "Ver projeto"
+
+#~ msgid "View profile"
+#~ msgstr "Ver perfil"
+
+#~ msgid "Sponsored"
+#~ msgstr "Patricinado"
+
+#~ msgid "Sponsored recipe"
+#~ msgstr "Receita patrocinada"
+
+#~ msgid "Prep"
+#~ msgstr "Preparo"
+
+#~ msgid "Cooking"
+#~ msgstr "Cozimento"
+
+#~ msgid "Total"
+#~ msgstr "Total"
+
+#~ msgid "Serves"
+#~ msgstr "Rendimento"
+
+#~ msgid "By: "
+#~ msgstr "Por:"
+
+#~ msgid "Portfolio"
+#~ msgstr "Portfolio"
+
+#~ msgid "Portfolio Project"
+#~ msgstr "Projeto"
+
+#~ msgid "Post a new project in the Portfolio"
+#~ msgstr "Postar/Editar um novo projeto no portfolio"
+
+#~ msgid "Project video"
+#~ msgstr "Vídeo do projeto"
+
+#~ msgid "Other information"
+#~ msgstr "Outras informações"
+
+#~ msgid "Post/Edit a new program in the schedule"
+#~ msgstr "Postar/Editar novo progrma na grade"
+
+#~ msgid "Full description"
+#~ msgstr "Descrição completa"
+
+#~ msgid "Link"
+#~ msgstr "Link"
+
+#~ msgid "Start time"
+#~ msgstr "Horário de início"
+
+#~ msgid "End time"
+#~ msgstr "Horário de término"
+
+#~ msgid "Other informations"
+#~ msgstr "Outras informações"
+
+#~ msgid "Presenter"
+#~ msgstr "Apresentador(a)"
+
+#~ msgid "Rating"
+#~ msgstr "Classificação"
+
+#~ msgid "Free"
+#~ msgstr "Livre"
+
+#~ msgid "Co-production"
+#~ msgstr "Co-produção"
+
+#~ msgid "The schedule slider output"
+#~ msgstr "A exibição do slider da grade"
+
+#~ msgid "Caption"
+#~ msgstr "Legenda"
+
+#~ msgid ""
+#~ "Use this if you want a diffent image other than the featured image of "
+#~ "this post"
+#~ msgstr ""
+#~ "Use este fundo caso queira uma imagem diferente da destacada neste "
+#~ "programa."
+
+#~ msgid "Background color for this slide."
+#~ msgstr "Cor do fundo para este slide"
+
+#~ msgid "Font color"
+#~ msgstr "Cor da fonte"
+
+#~ msgid "Font color for this slide."
+#~ msgstr "Cor da fonte deste rotativo"
+
+#~ msgid "Recipe"
+#~ msgstr "Receita"
+
+#~ msgid "Post a new recipe on the site"
+#~ msgstr "Postar/Editar nova receita no site"
+
+#~ msgid "Recipe video"
+#~ msgstr "Vídeo da receita"
+
+#~ msgid "Complexity"
+#~ msgstr "Dificuldade"
+
+#~ msgid "Select complexity"
+#~ msgstr "Selecione a dificuldade"
+
+#~ msgid "easy"
+#~ msgstr "fácil"
+
+#~ msgid "Easy"
+#~ msgstr "Fácil"
+
+#~ msgid "medium"
+#~ msgstr "médio"
+
+#~ msgid "advanced"
+#~ msgstr "avançado"
+
+#~ msgid "Advanced"
+#~ msgstr "Avançado"
+
+#~ msgid "expert"
+#~ msgstr "expert"
+
+#~ msgid "Expert"
+#~ msgstr "export"
+
+#~ msgid "Prep Time"
+#~ msgstr "Tempo de preparo"
+
+#~ msgid "Cooking Time"
+#~ msgstr "Tempo de cozimento"
+
+#~ msgid "Total Time"
+#~ msgstr "Tempo total"
+
+#~ msgid ""
+#~ "If this recipe is sponsored, this area will show it in the recipe page."
+#~ msgstr ""
+#~ "Se esta receita é patrocinada, esta área irá mostrá-la na página da "
+#~ "receita."
+
+#~ msgid "Sponsor"
+#~ msgstr "Patrocinador"
+
+#~ msgid "Video"
+#~ msgstr "Vídeo"
+
+#~ msgid "Post a new video on the site"
+#~ msgstr "Postar/Editar novo vídeo no site"
+
+#~ msgid "Video ID"
+#~ msgstr "ID do vídeo"
+
+#~ msgid "Paste the address to retrieve the video data"
+#~ msgstr "Cole o endereço para capturar os dados do vídeo"
+
+#~ msgid "Video description"
+#~ msgstr "Descrição do vídeo"
+
+#~ msgid "Event"
+#~ msgstr "Evento"
+
+#~ msgid "Create an event slide for a timeline"
+#~ msgstr "Crie um novo evento para a linha do tempo"
+
+#~ msgid "End Date"
+#~ msgstr "Data de término"
+
+#~ msgid "Text"
+#~ msgstr "Texto"
+
+#~ msgid "Media"
+#~ msgstr "Mídia"
+
+#~ msgid "Credit"
+#~ msgstr "Crédito"
+
+#~ msgid "Timeline to show"
+#~ msgstr "Linhas do tempo a ser mostrada"
+
+#~ msgid ""
+#~ "Write the slug of the timeline you wish to show on this page. Ex: \"my-"
+#~ "awesome-timeline\"."
+#~ msgstr ""
+#~ "Escreva a slug da linha do tempo a ser mostrada na página. Ex. \"minha-"
+#~ "incrivel-timeline\"."
+
+#~ msgid "Storymap"
+#~ msgstr "Storymap"
+
+#~ msgid "Story map"
+#~ msgstr "Mapa "
+
+#~ msgid "Post a new story map on the site"
+#~ msgstr "Postar/Editar um novo storymap no site"
+
+#~ msgid "Write a short description for this entry"
+#~ msgstr "Escreva uma descrição curta para este conteúdo"
+
+#~ msgid "Media Caption"
+#~ msgstr "Legenda da mídia"
+
+#~ msgid "Media Credit"
+#~ msgstr "Crédito da mídia"
+
+#~ msgid "Zoom"
+#~ msgstr "Zoom"
+
+#~ msgid "Line"
+#~ msgstr "Linha"
+
+#~ msgid "Guide"
+#~ msgstr "Guia"
+
+#~ msgid "Post a new place in the guide"
+#~ msgstr "Postar/Editar novo local no site"
+
+#~ msgid "Openning hours"
+#~ msgstr "Horário de funcionamento"
+
+#~ msgid "Prices"
+#~ msgstr "Preços"
+
+#~ msgid "Address"
+#~ msgstr "Endereço"
+
+#~ msgid "Item"
+#~ msgstr "Ítem"
+
+#~ msgid "Logo"
+#~ msgstr "Logo"
+
+#~ msgid "Profile"
+#~ msgstr "Perfil"
+
+#~ msgid "Post a new profile on the site"
+#~ msgstr "Postar/Editar novo perfil no site"
+
+#~ msgid "Full name"
+#~ msgstr "Nome completo"
+
+#~ msgid "Custom Post Types Options"
+#~ msgstr "Opções dos Tipos Personalizados"
+
+#~ msgid "Profiles"
+#~ msgstr "Perfis"
+
+#~ msgid "Recipes"
+#~ msgstr "Receitas"
+
+#~ msgid "Videos"
+#~ msgstr "Vídeos"
+
+#~ msgid "Video Player"
+#~ msgstr "Player de vídeo"
+
+#~ msgid "Timelines"
+#~ msgstr "Linhas do tempo"
+
+#~ msgid "Schedule"
+#~ msgstr "Grade"
+
+#~ msgid "Catalog"
+#~ msgstr "Catálogo"
+
+#~ msgid "Storymaps"
+#~ msgstr "Storymaps"
+
+#~ msgid "Portfolio Homepage"
+#~ msgstr "Página inicial do Portfolio"
+
+#~ msgid "portfolio"
+#~ msgstr "portfolio"
+
+#~ msgid "Custom page content"
+#~ msgstr "Conteúdo de página customizada"
+
+#~ msgid "Position"
+#~ msgstr "Posição"
+
+#~ msgid "One column"
+#~ msgstr "Uma coluna"
+
+#~ msgid "Three columns"
+#~ msgstr "Três colunas"
+
+#~ msgid "Four columns"
+#~ msgstr "Quatro colunas"
+
+#~ msgid "profiles"
+#~ msgstr "perfis"
+
+#~ msgid "Recipes Homepage"
+#~ msgstr "Página inicial de Receitas"
+
+#~ msgid "recipes"
+#~ msgstr "receitas"
+
+#~ msgid "Show conversion table"
+#~ msgstr "Mostrar tabela de conversão"
+
+#~ msgid "Conversion table contents"
+#~ msgstr "Conteúdo de tabela de conversão"
+
+#~ msgid "Email recipe"
+#~ msgstr "Enviar receita por e-mail"
+
+#~ msgid "Email template"
+#~ msgstr "Template de email"
+
+#~ msgid "Categories bar"
+#~ msgstr "Barra de categorias"
+
+#~ msgid "Show in frontpage"
+#~ msgstr "Mostrar na página inicial"
+
+#~ msgid "Show in recipe types"
+#~ msgstr "Mostrar nos tipos de receita"
+
+#~ msgid "Videos Homepage"
+#~ msgstr "Página inicial de Vídeos"
+
+#~ msgid "videos"
+#~ msgstr "videos"
+
+#~ msgid "Player options"
+#~ msgstr "Opções do player"
+
+#~ msgid "Theme"
+#~ msgstr "Tema"
+
+#~ msgid "Large"
+#~ msgstr "Grande"
+
+#~ msgid "Minimal"
+#~ msgstr "Minimalista"
+
+#~ msgid "Direct access to iframe"
+#~ msgstr "Acesso direto ao iframe"
+
+#~ msgid "Hides the layer between the player and the iframe"
+#~ msgstr "Esconde a camada entre o player e o iframe"
+
+#~ msgid "Play image"
+#~ msgstr "Imagem do play"
+
+#~ msgid "Replay image"
+#~ msgstr "Imagem do replay"
+
+#~ msgid "Duration"
+#~ msgstr "Duração"
+
+#~ msgid "Elapsed"
+#~ msgstr "Decorrido"
+
+#~ msgid "Playhead"
+#~ msgstr "Marcador"
+
+#~ msgid "Light"
+#~ msgstr "Claro"
+
+#~ msgid "Dark"
+#~ msgstr "Escuro"
+
+#~ msgid "Width"
+#~ msgstr "Largura"
+
+#~ msgid "Ex.: 100%"
+#~ msgstr "Ex.: 100%"
+
+#~ msgid "Height"
+#~ msgstr "Altura"
+
+#~ msgid "Ex.: 600"
+#~ msgstr "Ex.: 600"
+
+#~ msgid "Enable custom colors"
+#~ msgstr "Habilitar cores personalizadas"
+
+#~ msgid "Backgrounds and borders"
+#~ msgstr "Cor de fundo e bordas"
+
+#~ msgid "Timeline navigation color"
+#~ msgstr "Cor da navegação da linha do tempo"
+
+#~ msgid "Navigation line color"
+#~ msgstr "Cor da linha de navegação"
+
+#~ msgid "Borders"
+#~ msgstr "Bordas"
+
+#~ msgid "Shadows"
+#~ msgstr "Sombras"
+
+#~ msgid "Title color"
+#~ msgstr "Cor do título"
+
+#~ msgid "Text color"
+#~ msgstr "Cor do texto"
+
+#~ msgid "Link color"
+#~ msgstr "Cor do link"
+
+#~ msgid "Link hover color"
+#~ msgstr "Cor do link [sobre]"
+
+#~ msgid "Caption text color"
+#~ msgstr "Cor do texto da legenda"
+
+#~ msgid "Area options"
+#~ msgstr "Opções da área"
+
+#~ msgid "schedule"
+#~ msgstr "grade"
+
+#~ msgid "Guide Homepage"
+#~ msgstr "Página inicial do Guia"
+
+#~ msgid "guide"
+#~ msgstr "guia"
+
+#~ msgid "Default zoom"
+#~ msgstr "Zoom padrão"
+
+#~ msgid "Map Style"
+#~ msgstr "Estilo de mapa"
+
+#~ msgid ""
+#~ "Use the Google Maps API to stylize. <br><a href=\"http://gmaps-samples-v3."
+#~ "googlecode.com/svn/trunk/styledmaps/wizard/index.html\" target=\"_blank"
+#~ "\">Here is a wizard to help you.</a>"
+#~ msgstr ""
+#~ "Use a API do Google Maps API para estilizar. <br><a href=\"http://gmaps-"
+#~ "samples-v3.googlecode.com/svn/trunk/styledmaps/wizard/index.html\" target="
+#~ "\"_blank\">Eis um site para te ajudar.</a>"
+
+#~ msgid "Catalog Homepage"
+#~ msgstr "Página inicial do Catálogo"
+
+#~ msgid "catalog"
+#~ msgstr "catalogo"
+
+#~ msgid "Story"
+#~ msgstr "História"
+
+#~ msgid "Type"
+#~ msgstr "Tipo"
+
+#~ msgid "Stamen Maps: Toner Lite"
+#~ msgstr "Stamen Maps: Toner Lite"
+
+#~ msgid "Stamen Maps: Toner"
+#~ msgstr "Stamen Maps: Toner"
+
+#~ msgid "Stamen Maps: Toner Lines"
+#~ msgstr "Stamen Maps: Toner Lines"
+
+#~ msgid "Stamen Maps: Toner Labels"
+#~ msgstr "Stamen Maps: Toner Labels"
+
+#~ msgid "Stamen Maps: Toner Background"
+#~ msgstr "Stamen Maps: Toner Background"
+
+#~ msgid "Stamen Maps: Watercolor"
+#~ msgstr "Stamen Maps: Watercolor"
+
+#~ msgid "Stamen Maps: Terrain"
+#~ msgstr "Stamen Maps: Terrain"
+
+#~ msgid "Open Street Maps: Standard"
+#~ msgstr "Open Street Maps: Standard"
+
+#~ msgid "Mapbox"
+#~ msgstr "Mapbox"
+
+#~ msgid "sunday"
+#~ msgstr "domingo"
+
+#~ msgid "monday"
+#~ msgstr "segunda"
+
+#~ msgid "tuesday"
+#~ msgstr "terca"
+
+#~ msgid "wednesday"
+#~ msgstr "quarta"
+
+#~ msgid "thursday"
+#~ msgstr "quinta"
+
+#~ msgid "friday"
+#~ msgstr "sexta"
+
+#~ msgid "saturday"
+#~ msgstr "sabado"
+
+#~ msgid "Catalogs"
+#~ msgstr "Catálogos"
+
+#~ msgid "In the web"
+#~ msgstr "Na Web"
+
+#~ msgid "Tweet"
+#~ msgstr "Tweet"
+
+#~ msgid "+1"
+#~ msgstr "+1"
+
+#~ msgid "More"
+#~ msgstr "Mais"
+
+#~ msgid "Print this recipe"
+#~ msgstr "Imprima esta receita"
+
+#~ msgid "Send to email"
+#~ msgstr "Enviar por email"
+
+#~ msgid "Measures conversion"
+#~ msgstr "Conversão de medidas"
+
+#~ msgid "Sunday"
+#~ msgstr "Domingo"
+
+#~ msgid "Monday"
+#~ msgstr "Segunda"
+
+#~ msgid "Tuesday"
+#~ msgstr "Terça"
+
+#~ msgid "Wednesday"
+#~ msgstr "Quarta"
+
+#~ msgid "Thursday"
+#~ msgstr "Quinta"
+
+#~ msgid "Friday"
+#~ msgstr "Sexta"
+
+#~ msgid "Saturday"
+#~ msgstr "Sábado"
+
+#~ msgid "Read more..."
+#~ msgstr "Leia mais..."
+
+#~ msgid "Add item"
+#~ msgstr "Adicionar ítem"
+
+#~ msgid "Edit item"
+#~ msgstr "Editar ítem"
+
+#~ msgid "No items Found"
+#~ msgstr "Nenhum ítem encontrado"
+
+#~ msgid "Parent items"
+#~ msgstr "Ítens pai"
+
+#~ msgid "Product type"
+#~ msgstr "Tipos de produto"
+
+#~ msgid "Product types"
+#~ msgstr "Tipos de produto"
+
+#~ msgid "All items"
+#~ msgstr "Todos os ítens"
+
+#~ msgid "Parent item"
+#~ msgstr "Ítem pai"
+
+#~ msgid "Parent item:"
+#~ msgstr "Ítens pai:"
+
+#~ msgid "New product type"
+#~ msgstr "Novo tipo de produto"
+
+#~ msgid "Update item"
+#~ msgstr "Atualizar ítem"
+
+#~ msgid "Separate items with commas"
+#~ msgstr "Separe os itens com vírgulas"
+
+#~ msgid "Add or remove items"
+#~ msgstr "Adicionar ou remover itens"
+
+#~ msgid "Choose from the most used items"
+#~ msgstr "Escolha a partir dos itens mais usados"
+
+#~ msgid "Not Found"
+#~ msgstr "Não encontrado"
+
+#~ msgid "Sidebar for the catalog area."
+#~ msgstr "Barra lateral para a área de catálogo."
+
+#~ msgid "Add place"
+#~ msgstr "Adicionar local"
+
+#~ msgid "Places"
+#~ msgstr "Locais"
+
+#~ msgid "New place"
+#~ msgstr "Novo local"
+
+#~ msgid "Parent places"
+#~ msgstr "Locais-pai"
+
+#~ msgid "Place Type"
+#~ msgstr "Tipo de local"
+
+#~ msgid "Place Types"
+#~ msgstr "Tipos de local"
+
+#~ msgid "Parent Item"
+#~ msgstr "Item pai"
+
+#~ msgid "New place type"
+#~ msgstr "Novo tipo de local"
+
+#~ msgid "Place type"
+#~ msgstr "Tipo de local"
+
+#~ msgid "Sidebar for the guide area."
+#~ msgstr "Barra lateral para a área de guia."
+
+#~ msgid "Add project"
+#~ msgstr "Adicionar projeto"
+
+#~ msgid "Add new project"
+#~ msgstr "Adicionar novo projeto"
+
+#~ msgid "Edit project"
+#~ msgstr "Editar projeto"
+
+#~ msgid "Projects"
+#~ msgstr "Projetos"
+
+#~ msgid "New project"
+#~ msgstr "Novo projeto"
+
+#~ msgid "No projects found"
+#~ msgstr "Nenhum projeto encontrado"
+
+#~ msgid "No projects found in Trash"
+#~ msgstr "Nenhum projeto encontrado na lixeira"
+
+#~ msgid "Parent projects"
+#~ msgstr "Projetos-pai"
+
+#~ msgid "Search projects"
+#~ msgstr "Pesquisar projetos"
+
+#~ msgid "Project type"
+#~ msgstr "Tipos de projeto"
+
+#~ msgid "Project types"
+#~ msgstr "Tipos de projeto"
+
+#~ msgid "New project type"
+#~ msgstr "Novo tipo de projeto"
+
+#~ msgid "Sidebar for the portfolio area."
+#~ msgstr "Barra lateral para a área de portfolio."
+
+#~ msgid "Add profile"
+#~ msgstr "Adicionar perfil"
+
+#~ msgid "Edit profile"
+#~ msgstr "Editar perfil"
+
+#~ msgid "New profile"
+#~ msgstr "Novo perfil"
+
+#~ msgid "No profiles found"
+#~ msgstr "Nenhum perfil encontrado"
+
+#~ msgid "No profiles found in Trash"
+#~ msgstr "Nenhum perfil encontrado na lixeira"
+
+#~ msgid "Parent profiles"
+#~ msgstr "Perfis-pai"
+
+#~ msgid "Search profiles"
+#~ msgstr "Pesquisar perfis"
+
+#~ msgid "profile"
+#~ msgstr "perfil"
+
+#~ msgid "Profile type"
+#~ msgstr "Tipos de perfil"
+
+#~ msgid "Profile types"
+#~ msgstr "Tipos de perfil"
+
+#~ msgid "New profile type"
+#~ msgstr "Novo tipo de perfil"
+
+#~ msgid "profile type"
+#~ msgstr "Tipos de perfil"
+
+#~ msgid "Sidebar for the profile area."
+#~ msgstr "Barra lateral para a área de perfis."
+
+#~ msgid "New recipe"
+#~ msgstr "Nova receita"
+
+#~ msgid "Recipe Type"
+#~ msgstr "Tipo de receita"
+
+#~ msgid "Recipe Types"
+#~ msgstr "Tipos de receita"
+
+#~ msgid "New recipe type"
+#~ msgstr "Novo tipo de receita"
+
+#~ msgid "Recipe type"
+#~ msgstr "Tipo de receita"
+
+#~ msgid "Sidebar for the recipes area."
+#~ msgstr "Barra lateral para a área de receitas."
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Programs"
+#~ msgstr "Programas"
+
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Program"
+#~ msgstr "Programa"
+
+#~ msgid "New program"
+#~ msgstr "Novo programa"
+
+#~ msgid "Add new program"
+#~ msgstr "Adicionar novo programa"
+
+#~ msgid "All programs"
+#~ msgstr "Todos os programas"
+
+#~ msgid "Edit program"
+#~ msgstr "Editar programa"
+
+#~ msgid "No programs found"
+#~ msgstr "Nenhum programa encontrado"
+
+#~ msgid "No programs found in trash"
+#~ msgstr "Nenhum programa encontrado"
+
+#~ msgid "Parent program:"
+#~ msgstr "Programa pai"
+
+#~ msgid "Search programs"
+#~ msgstr "Procurar programas"
+
+#~ msgid "Update program"
+#~ msgstr "Atualizar programa"
+
+#~ msgid "View program"
+#~ msgstr "Ver programa"
+
+#~ msgid "Program schedule"
+#~ msgstr "Grade de programação"
+
+#~ msgid "Program Type"
+#~ msgstr "Tipo de programa"
+
+#~ msgid "Program Types"
+#~ msgstr "Tipos de programa"
+
+#~ msgid "New program type"
+#~ msgstr "Novo tipo de programa"
+
+#~ msgid "Days of the week"
+#~ msgstr "Dias da semana"
+
+#~ msgid "Day of the week"
+#~ msgstr "Dia da semana"
+
+#~ msgid "Days"
+#~ msgstr "Dias"
+
+#~ msgid "Program days"
+#~ msgstr "Dias do programa"
+
+#~ msgid "All days"
+#~ msgstr "Todos os dias"
+
+#~ msgid "Add storymap"
+#~ msgstr "Adicionar storymap"
+
+#~ msgid "Add new storymap"
+#~ msgstr "Adicionar novo storymap"
+
+#~ msgid "Edit storymap"
+#~ msgstr "Editar storymap"
+
+#~ msgid "New storymap"
+#~ msgstr "Novo storymap"
+
+#~ msgid "No storymaps Found"
+#~ msgstr "Nenhum storymap encontrado"
+
+#~ msgid "No storymaps Found in Trash"
+#~ msgstr "Nenhum storymap encontrado na lixeira"
+
+#~ msgid "Parent storymaps"
+#~ msgstr "Storymaps-pai"
+
+#~ msgid "Search storymaps"
+#~ msgstr "Pesquisar storymaps"
+
+#~ msgid "View storymap"
+#~ msgstr "Ver storymap"
+
+#~ msgid "storymap"
+#~ msgstr "storymap"
+
+#~ msgid "Stories"
+#~ msgstr "Histórias"
+
+#~ msgid "New story"
+#~ msgstr "Nova história"
+
+#~ msgid "Edit story"
+#~ msgstr "Editar história"
+
+#~ msgid "Update story"
+#~ msgstr "Atualizar história"
+
+#~ msgid "Separate stories with commas"
+#~ msgstr "Separe as histórias com vírgulas"
+
+#~ msgid "Search stories"
+#~ msgstr "Pesquisar histórias"
+
+#~ msgid "Add or remove stories"
+#~ msgstr "Adicionar ou remover histórias"
+
+#~ msgid "Choose from the most used stories"
+#~ msgstr "Escolha a partir das histórias mais usadas"
+
+#~ msgid "Timeline Events"
+#~ msgstr "Eventos de tempo"
+
+#~ msgid "Timeline Event"
+#~ msgstr "Evento de tempo"
+
+#~ msgid "Add Timeline Event"
+#~ msgstr "Adicionar evento de tempo"
+
+#~ msgid "Add New Timeline Event"
+#~ msgstr "Adicionar novo evento de tempo"
+
+#~ msgid "Edit Timeline Event"
+#~ msgstr "Editar evento de tempo"
+
+#~ msgid "New Timeline Event"
+#~ msgstr "Novo evento de tempo"
+
+#~ msgid "View Timelines"
+#~ msgstr "Ver linhas do tempo"
+
+#~ msgid "Search Timelines"
+#~ msgstr "Pesquisar linhas do tempo"
+
+#~ msgid "No Timelines Found"
+#~ msgstr "Nenhuma linha do tempo encontrada"
+
+#~ msgid "No Timelines Found in Trash"
+#~ msgstr "Nenhuma linha do tempo encontrada na lixeira"
+
+#~ msgid "Parent Timelines"
+#~ msgstr "Linhas do tempo-pai"
+
+#~ msgid "Add video"
+#~ msgstr "Adicionar vídeo"
+
+#~ msgid "Add new video"
+#~ msgstr "Adicionar novo vídeo"
+
+#~ msgid "Edit video"
+#~ msgstr "Editar vídeo"
+
+#~ msgid "New video"
+#~ msgstr "Novo vídeo"
+
+#~ msgid "No videos Found"
+#~ msgstr "Nenhum vídeo encontrado"
+
+#~ msgid "No videos Found in Trash"
+#~ msgstr "Nenhum vídeo encontrado na lixeira"
+
+#~ msgid "Parent videos"
+#~ msgstr "Vídeo-pai"
+
+#~ msgid "Search videos"
+#~ msgstr "Pesquisar vídeos"
+
+#~ msgid "View video"
+#~ msgstr "Visualizar vídeo"
+
+#~ msgid "Playlist"
+#~ msgstr "Playlist"
+
+#~ msgid "Parent playlist:"
+#~ msgstr "Playlist pai"
+
+#~ msgid "Add New playlist"
+#~ msgstr "Adicionar nova playlist"
+
+#~ msgid "Separate playlists with commas"
+#~ msgstr "Separe os playlists com vírgulas"
+
+#~ msgid "Add or remove playlists"
+#~ msgstr "Adicionar ou remover playlists"
+
+#~ msgid "Choose from the most used playlists"
+#~ msgstr "Escolha a partir das playlists mais usadas"
+
+#~ msgid "Video labels"
+#~ msgstr "Etiquetas de vídeo"
+
+#~ msgid "Video label"
+#~ msgstr "Etiqueta de vídeo"
+
+#~ msgid "Documentary"
+#~ msgstr "Documentário"
+
+#~ msgid "Documentaries in general"
+#~ msgstr "Documentários em geral"
+
+#~ msgid "Exclusive"
+#~ msgstr "Exclusivo"
+
+#~ msgid "Just the exclusive videos get this label"
+#~ msgstr "Somente os vídeos exclusivo levam esta marcação"
+
+#~ msgid "Featured"
+#~ msgstr "Destaque"
+
+#~ msgid "Videos that deserve a feature"
+#~ msgstr "Vídeos que merecem destaque"
+
+#~ msgid "Full content videos"
+#~ msgstr "Vídeos com conteúdos na íntegra"
+
+#~ msgid "Making of"
+#~ msgstr "Bastidores"
+
+#~ msgid "Videos showing the creative process"
+#~ msgstr "Vídeos que mostram o processo criativo"
+
+#~ msgid "Popular"
+#~ msgstr "Popular"
+
+#~ msgid "Just the top ones"
+#~ msgstr "Só os melhores"
+
+#~ msgid "Premiere"
+#~ msgstr "Estréia"
+
+#~ msgid "The first video aired"
+#~ msgstr "O vídeo de estréia"
+
+#~ msgid "Promo"
+#~ msgstr "Promo"
+
+#~ msgid "For new series or program"
+#~ msgstr "Para uma série ou um programa"
+
+#~ msgid "Series"
+#~ msgstr "Série"
+
+#~ msgid "Series of videos"
+#~ msgstr "Série de vídeos"
+
+#~ msgid "Events, shows..."
+#~ msgstr "Eventos, shows..."
+
+#~ msgid "Sponsored videos"
+#~ msgstr "Vídeos patrocinados"
+
+#~ msgid "Teaser"
+#~ msgstr "Teaser"
+
+#~ msgid "Web Exclusive"
+#~ msgstr "Exclusivo Web"
+
+#~ msgid "Videos only available for the web"
+#~ msgstr "Vídeos disponíveis somente na web"
+
+#~ msgid "Web Series"
+#~ msgstr "Web Séries"
+
+#~ msgid "Series only available for the web"
+#~ msgstr "Séries disponíveis somente na web"
+
+#~ msgid "Videos Sidebar"
+#~ msgstr "Barra lateral de vídeos"
+
+#~ msgid "Sidebar for the videos area."
+#~ msgstr "Barra lateral para a área de vídeos."
+
+#~ msgid "Related recipes"
+#~ msgstr "Receitas relacionadas"
+
+#~ msgid "Program types"
+#~ msgstr "Tipos de programa"
+
+#~ msgid "View guide"
+#~ msgstr "Ver guia"
+
+#~ msgid "View portfolio"
+#~ msgstr "Ver portfolio"
+
+#~ msgid "Program:"
+#~ msgstr "Programa:"
+
+#, fuzzy
+#~ msgid "Portfolio type"
+#~ msgstr "Portfolio"
+
+#, fuzzy
+#~ msgid "Optional information"
+#~ msgstr "Outras informações"
+
+#, fuzzy
+#~ msgid "Categories to appear"
+#~ msgstr "Categorias"
+
+#, fuzzy
+#~ msgid "Playlists to appear"
+#~ msgstr "Playlists"
+
+#~ msgid "Do not use special characters or slugs already taken by Wordpress"
+#~ msgstr "Não use caracteres especiais, nem nomes já usados pelo Wordpress"
+
+#~ msgid "co-production"
+#~ msgstr "co-produção"
+
+#~ msgid "Background color 1"
+#~ msgstr "Cor de fundo 1"
+
+#~ msgid "Background color 2"
+#~ msgstr "Cor de fundo 2"
+
+#, fuzzy
+#~ msgid "View more link label"
+#~ msgstr "Etiqueta [remover]"
+
+#~ msgid "Featured categories"
+#~ msgstr "Categorias destacadas"
+
+#, fuzzy
+#~ msgid "\"Read more\" link label"
+#~ msgstr "Etiqueta [remover]"
+
+#~ msgid "TED"
+#~ msgstr "TED"
+
+#~ msgid "<span class=\"meta-nav\">&laquo;</span> Older posts"
+#~ msgstr "<span class=\"meta-nav\">&laquo;</span> Anteriores"
+
+#~ msgid "Newer posts <span class=\"meta-nav\">&raquo;</span>"
+#~ msgstr "Recentes <span class=\"meta-nav\">&raquo;</span>"
+
+#~ msgid "Recipes Sidebar"
+#~ msgstr "Barra lateral de receitas"
+
+#~ msgid "Send a recipe"
+#~ msgstr "Enviar uma receita"
+
+#, fuzzy
+#~ msgid "Like"
+#~ msgstr "Link"
+
+#~ msgid "Votes Plugin Options"
+#~ msgstr "Opções do Plugin"
+
+#~ msgid "Votes Database"
+#~ msgstr "Banco de dados"
+
+#~ msgid "Votes database"
+#~ msgstr "Banco de dados"
+
+#~ msgid "Empty table"
+#~ msgstr "Esvaziar tabela"
+
+#~ msgid ""
+#~ "Activating this button below will enable the removing of all the contents "
+#~ "of the database table without any warning. Be careful."
+#~ msgstr ""
+#~ "Ativar este botão irá permitir que sejam removidos todos os registros da "
+#~ "tabela sem quaisquer avisos. Use com cautela."
+
+#~ msgid "Enable Empty table button"
+#~ msgstr "Ativar botão de esvaziar tabela"
+
+#~ msgid "Subscribe label"
+#~ msgstr "Etiqueta [inscrever]"
+
+#~ msgid "Vote plural label"
+#~ msgstr "Etiqueta [plural]"
+
+#~ msgid "Vote messages"
+#~ msgstr "Mensagens"
+
+#~ msgid "Unsubscribe message"
+#~ msgstr "Mensagem de desistência"
+
+#~ msgid "Appear on post-types"
+#~ msgstr "Aparecer nos tipos de postagem"
+
+#~ msgid "Post types available: "
+#~ msgstr "Tipos de postagem disponíveis"
+
+#~ msgid "Ignore IDs"
+#~ msgstr "Ignorar IDs"
+
+#~ msgid "Separate IDs by comma and spaces. Ex.: 1819, 90, 121"
+#~ msgstr "Separe IDs por vírgulas e espaços: Ex.: 1819, 90, 121"
+
+#~ msgid "Do you really need to add another day of the week?"
+#~ msgstr "Você realmente precisa adicionar outro dia da semana?"
+
+#~ msgid "Give some additional details for this page."
+#~ msgstr "D"
+
+#~ msgid "Day(s) of the week"
+#~ msgstr "Dia(s) da semana"
+
+#~ msgctxt "Taxonomy General Name"
+#~ msgid "Program Type"
+#~ msgstr "Tipo de programa"
+
+#~ msgid "Export all"
+#~ msgstr "Exportar tudo"
+
+#~ msgid "Export winners"
+#~ msgstr "Exportar vencedores"
+
+#~ msgid "Export by date"
+#~ msgstr "Exportar <br>pela data"
+
+#~ msgid "Export by promo"
+#~ msgstr "Exportar por promoção"
+
+#~ msgid "Export by user"
+#~ msgstr "Exportar por usuário"
+
+#~ msgid "User"
+#~ msgstr "Usuário"
+
+#~ msgid "Mail"
+#~ msgstr "E-mail"
+
+#~ msgid "Phone Number"
+#~ msgstr "Telefone"
+
+#~ msgid "Winner"
+#~ msgstr "Vencedor(a)"
+
+#~ msgid "Unmark as winner"
+#~ msgstr "Desmarcar vencedor"
+
+#~ msgid "Mark as winner"
+#~ msgstr "Marcar como vencedor"
+
+#~ msgid "Emptying table..."
+#~ msgstr "Esvaziando tabela..."
+
+#~ msgid "The table is empty now."
+#~ msgstr "A tabela está vazia agora."
+
+#~ msgid "Needed for participating give-aways"
+#~ msgstr "Necessário para participar de promoções"
+
+#~ msgid "Please enter your phone number: (0xx) XXXXX-XXXX"
+#~ msgstr "Por favor coloque o seu número de telefone: (0xx) XXXXX-XXXX"
+
+#~ msgid "Last Name"
+#~ msgstr "Sobrenome"
+
+#~ msgid "Phone number"
+#~ msgstr "Número de telefone"
+
+#~ msgid ""
+#~ "The passwords you entered do not match. Your password was not updated."
+#~ msgstr "A senhas informadas não conferem. Sua senha não foi atualizada."
+
+#~ msgid "You must be logged in to edit your profile."
+#~ msgstr "Você precisar cadastrado para editar seu perfil. "
+
+#~ msgid "First Name"
+#~ msgstr "Nome"
+
+#~ msgid "Nickname (required)"
+#~ msgstr "Apelido (obrigatório)"
+
+#~ msgid "Display Name"
+#~ msgstr "Nome de exibição"
+
+#~ msgid "About Yourself"
+#~ msgstr "Sobre Você"
+
+#~ msgid "Biographical Info"
+#~ msgstr "Informações Biográficas"
+
+#~ msgid "Repeat Password"
+#~ msgstr "Repita a Senha"
+
+#~ msgid "Extra Profile Information"
+#~ msgstr "Informações Adicionais"
+
+#~ msgid "A username is required for registration."
+#~ msgstr "Um nome de usuário é necessário para o cadastro."
+
+#~ msgid "A name is required for registration."
+#~ msgstr "Um nome é necessário para o cadastro."
+
+#~ msgid "A surname is required for registration."
+#~ msgstr "Um sobrenome é necessário para o cadastro."
+
+#~ msgid "A password is required for registration."
+#~ msgstr "Uma senha é necessária para o cadastro."
+
+#~ msgid "A phone number is required for registration."
+#~ msgstr "Um número de telefone é necessário para o cadastro."
+
+#~ msgid "Sorry, that username already exists!"
+#~ msgstr "Desculpe, este nome de usuário já existe!"
+
+#~ msgid "Sorry, that email address is already used!"
+#~ msgstr "Desculpe, este e-mail já está cadastrado!"
+
+#~ msgid ""
+#~ "You are logged in as <a href=\"%1$s\" title=\"%2$s\">%2$s</a>.  You don't "
+#~ "need another account."
+#~ msgstr ""
+#~ "Você está acessando como <a href=\"%1$s\" title=\"%2$s\">%2$s</a>. Você "
+#~ "não precisa de outra conta."
+
+#~ msgid "Log out of this account"
+#~ msgstr "Sair desta conta."
+
+#~ msgid "Logout &raquo;"
+#~ msgstr "Sair  &raquo;"
+
+#~ msgid "A user account for %1$s has been created."
+#~ msgstr "A conta para %1$s foi criada."
+
+#~ msgid "Thank you for registering, %1$s."
+#~ msgstr "Obrigado por se cadastrar, %1$s."
+
+#~ msgid ""
+#~ "<br/>Please check your email address. That's where you'll recieve your "
+#~ "login password.<br/> (It might go into your spam folder)"
+#~ msgstr "<br>Por favor confira o seu endereço de e-mail. "
+
+#~ msgid "Users can register themselves or you can manually create users here."
+#~ msgstr ""
+#~ "Usuários podem se cadastrar sozinhos ou você pode criá-los manualmente "
+#~ "aqui."
+
+#~ msgid ""
+#~ "Users cannot currently register themselves, but you can manually create "
+#~ "users here."
+#~ msgstr ""
+#~ "Usuários não podem se cadastrar sozinhos, mas você pode criá-los "
+#~ "manualmente aqui."
+
+#~ msgid "Username (required)"
+#~ msgstr "Nome de usuário (obrigatório)"
+
+#~ msgid "First Name (required)"
+#~ msgstr "Nome (obrigatório)"
+
+#~ msgid "Last Name (required)"
+#~ msgstr "Sobrenome (obrigatório)"
+
+#~ msgid "Nickname"
+#~ msgstr "Apelido"
+
+#~ msgid "Contact info"
+#~ msgstr "Informações de Contato"
+
+#~ msgid "E-mail (required)"
+#~ msgstr "E-mail (obrigatório)"
+
+#~ msgid "Phone Number (required)"
+#~ msgstr "Telefone (obrigatório)"
+
+#~ msgid "Password"
+#~ msgstr "Senha"
+
+#~ msgid "About yourself"
+#~ msgstr "Sobre você"
+
+#~ msgid "Register"
+#~ msgstr "Cadastrar"
+
+#~ msgid "User name should not be empty."
+#~ msgstr "O nome de usuário não pode ficar vazio."
+
+#~ msgid "Username already exists. Please try another one."
+#~ msgstr "O usuário já existe. Tente com outro nome."
+
+#~ msgid "Please check your email for login details."
+#~ msgstr "Cheque seu email para os detalhes do registro"
+
+#~ msgid "Username"
+#~ msgstr "Nome de usuário"
+
+#~ msgid "E-mail address"
+#~ msgstr "Endereço de e-mail"
+
+#~ msgid "Sign Up"
+#~ msgstr "Cadastre-se"
+
+#~ msgid "Registration is currently disabled. Please try again later."
+#~ msgstr "Os registros estão desabilitados. Tente novamente mais tarde."
+
+#~ msgid "Database"
+#~ msgstr "Banco de dados"
