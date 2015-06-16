@@ -63,7 +63,7 @@ function ess_le_limbo_textdomain() {
     $languagesdir = dirname(plugin_basename(__FILE__)) . '/languages';
     load_plugin_textdomain('ess-limbo', false, $languagesdir);
 }
-add_action('init', 'ess_le_limbo_textdomain');
+add_action('plugins_loaded', 'ess_le_limbo_textdomain');
 
 
 // ----------------------------------------------------

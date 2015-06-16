@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ESS-Promo\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-05-15 12:53-0300\n"
-"PO-Revision-Date: 2015-05-15 12:53-0300\n"
+"POT-Creation-Date: 2015-06-16 10:43-0300\n"
+"PO-Revision-Date: 2015-06-16 10:44-0300\n"
 "Last-Translator: Elves Sousa <elves.sousa@gmail.com>\n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -69,13 +69,19 @@ msgstr "Configurações de layout salvas!"
 msgid "Layout options"
 msgstr "Opções de layout"
 
-#: limbo-type.php:19 limbo-type.php:21
+#: limbo-type.php:19
+msgctxt "ess-le-limbo"
 msgid "Archives"
 msgstr "Arquivos"
 
 #: limbo-type.php:20
+msgctxt "ess-le-limbo"
 msgid "Archive"
 msgstr "Arquivo"
+
+#: limbo-type.php:21
+msgid "Archives"
+msgstr "Arquivos"
 
 #: limbo-type.php:22
 msgid "Add archive"

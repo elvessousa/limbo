@@ -16,25 +16,25 @@ if ( !function_exists('ess_limbo_type') ) {
     add_action('init', 'ess_limbo_type');
     function ess_limbo_type() {
         $limbo_labels = array(
-            'name'                => _x('Archives', 'ess-le-limbo'),
-            'singular_name'       => _x('Archive', 'ess-le-limbo'),
-            'menu_name'           => __('Archives', 'ess-le-limbo'),
-            'add_new'             => __('Add archive', 'ess-le-limbo'),
-            'add_new_item'        => __('Add new archive', 'ess-le-limbo'),
-            'edit'                => __('Edit', 'ess-le-limbo'),
-            'edit_item'           => __('Edit archive', 'ess-le-limbo'),
-            'new_item'            => __('New limbo', 'ess-le-limbo'),
-            'view'                => __('View archives', 'ess-le-limbo'),
-            'view_item'           => __('View archives', 'ess-le-limbo'),
-            'search_items'        => __('Search archive', 'ess-le-limbo'),
-            'not_found'           => __('No archives found', 'ess-le-limbo'),
-            'not_found_in_trash'  => __('No archives found in trash', 'ess-le-limbo'),
-            'parent'              => __('Parent archives', 'ess-le-limbo'),
+            'name'                => _x('Archives', 'ess-limbo'),
+            'singular_name'       => _x('Archive', 'ess-limbo'),
+            'menu_name'           => __('Archives', 'ess-limbo'),
+            'add_new'             => __('Add archive', 'ess-limbo'),
+            'add_new_item'        => __('Add new archive', 'ess-limbo'),
+            'edit'                => __('Edit', 'ess-limbo'),
+            'edit_item'           => __('Edit archive', 'ess-limbo'),
+            'new_item'            => __('New limbo', 'ess-limbo'),
+            'view'                => __('View archives', 'ess-limbo'),
+            'view_item'           => __('View archives', 'ess-limbo'),
+            'search_items'        => __('Search archive', 'ess-limbo'),
+            'not_found'           => __('No archives found', 'ess-limbo'),
+            'not_found_in_trash'  => __('No archives found in trash', 'ess-limbo'),
+            'parent'              => __('Parent archives', 'ess-limbo'),
         );
 
         $limbo_args = array(
             'labels'              => $limbo_labels,
-            'singular_label'      => __('limbo', 'ess-le-limbo'),
+            'singular_label'      => __('Archive', 'ess-limbo'),
             'public'              => true,
             'show_ui'             => true,
             'capability_type'     => 'page',
@@ -131,10 +131,10 @@ if ( !function_exists('ess_limbo_type') ) {
         $limbo_columns = array(
             "cb"        => "<input type=\"checkbox\" />",
             "icon"      => "",
-            "title"     => __('Title', 'ess-le-limbo'),
-//          "shortcode" => __('Shortcode', 'ess-le-limbo'),
-            "author"    => __('Archived by', 'ess-le-limbo'),
-            "date"      => __('Archived date', 'ess-le-limbo')
+            "title"     => __('Title', 'ess-limbo'),
+//          "shortcode" => __('Shortcode', 'ess-limbo'),
+            "author"    => __('Archived by', 'ess-limbo'),
+            "date"      => __('Archived date', 'ess-limbo')
         );
         return $limbo_columns;
     }
